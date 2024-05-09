@@ -1,5 +1,8 @@
+### Name : ARHAM S
+### REG NO : 212222110005
+
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
- 
+
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
 ## Theory :
@@ -29,10 +32,8 @@ As the application server market matures, high performance becomes a stronger cr
 
 ## OUTPUT 
  
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
+![WhatsApp Image 2024-05-09 at 1 41 00 PM](https://github.com/arhamshajahan/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/127313881/65f53490-1c0a-43af-963c-7933571d8f6e)
+![WhatsApp Image 2024-05-09 at 1 52 55 PM](https://github.com/arhamshajahan/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/127313881/a7dca919-46a1-4e47-b281-dab357c99e23)
 
 
-
-## Results: 
-
-  The Application  server and network server data is add on the data dashboard using visualiztion editor 
+## Results: The Application  server and network server data is add on the data dashboard using visualiztion editor 
